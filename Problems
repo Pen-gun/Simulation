@@ -1,0 +1,4 @@
+Problems
+........
+cmake(install cmake first)
+make sure to allow it for users. [if not then -> & "C:\Path\CMake\bin\cmake" --version] {this should be enable in the environment you are working on}
