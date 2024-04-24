@@ -2,3 +2,14 @@ Problems
 ........
 cmake(install cmake first)
 make sure to allow it for users. [if not then -> & "C:\Path\CMake\bin\cmake" --version] {this should be enable in the environment you are working on}
+
+cd C:\Users\LEGION\PycharmProjects\pythonProject\venv
+dir
+
+1. cd C:\Users\LEGION\PycharmProjects\pythonProject
+rmdir /s venv
+
+2. python -m venv venv
+3. venv\Scripts\activate
+4. pip install numpy
+
